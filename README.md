@@ -2,32 +2,40 @@
 <h2 align="center">Alisa Mamikova</h2>
 <h3 align="center">IT 3.grupa</h3>
 
-# 1. Saturs:
-### 1. Ievads;
-#### 1. Priekšvēsture;
-#### 2. Nozīmība;
-#### 3. Referāta mērķis;
-### 4. Pamatjēdzieni;
-### 5. Temata izvērsts izklāsts un analīze;
-### 6. Secinājumi;
-### 7. Bibliogrāfija. 
+# Saturs
+### 1. Ievads
+#### 1. Priekšvēsture
+#### 2. Nozīmība
+#### 3. Referāta mērķis
+### 4. Pamatjēdzieni
+### 5. Temata izvērsts izklāsts un analīze
+### 6. Secinājumi
+### 7. Bibliogrāfija
+### Nozīmība
 
-Lietu internets (IoT) apraksta fiziskus objektus (vai šādu objektu grupas) ar sensoriem, apstrādes iespējām, programmatūru un citām tehnoloģijām, kas savieno un apmainās ar datiem ar citām ierīcēm un sistēmām, izmantojot internetu vai citus sakaru tīklus. Lietu internets ir uzskatīts par nepareizu nosaukumu, jo ierīcēm nav jābūt savienotām ar publisko internetu, tām tikai jābūt savienotām ar tīklu un jābūt individuāli adresējamām.
+Referāta tēma ir aktuāla mūsdienās, jo šodien cilvēka dzīves iekārtojums jau ir diezgan cieši saistīts ar virkni progresīvu tehnoloģiju, kuru ietekme attiecas uz dažādām jomām: enerģētika, rūpniecība, transports utt. Inovatīvu izstrādņu ieviešana izraisa arī būtiskas pārmaiņas ekonomikā. Svarīgākie un interesantākie no šādiem faktoriem ir papildinātā realitāte, lielie dati, mākoņrēķini un lietu internets. Īpašī IoT pakāpeniski paplašina savas ietekmes sfēru. Jo īpaši lietu internets veicina jaunu koplietošanas ekonomikas mehānismu veidošanos, kas ļauj mainīt biznesa modeļus līdz pat valsts līmenim. Savukārt no rūpniecības viedokļa lietu internets ir saistviela starp lielu datu apjomu izmantošanu, starpmašīnu komunikāciju un ražošanas automatizācijas tehnoloģijām.
 
-A Brief History of IoT Technologies
-The concept of adding sensors and intelligence to physical objects was first discussed in the 1980s, when some university students decided to modify a Coca-Cola vending machine to track its contents remotely. But the technology was bulky and progress was limited.
+### Referāta mērķis
+Referāta mērķis ir plašāk izprast kā darbojas lietiskais internets, kādas pārmaiņas tās izraisa mūsdienās ikdienas dzīvē un kādas ir tā izmantošanas iespējas gan globalālā līmenī, gan katram personīgi.
 
-The term ‘Internet of Things’ was coined in 1999 by the computer scientist Kevin Ashton. While working at Procter & Gamble, Ashton proposed putting radio-frequency identification (RFID) chips on products to track them through a supply chain.
+#### IoT pielietošanas iespējas
 
-He reportedly worked the then-buzzword ‘internet’ into his proposal to get the executives’ attention. And the phrase stuck.
+#### IoT priekšrocības
 
-Over the next decade, public interest in IoT technology began to take off, as more and more connected devices came to market.
+#### IoT trūkumi
 
-In 2000, LG announced the first smart refrigerator, in 2007 the first iPhone was launched and by 2008, the number of connected devices exceeded the number of people on the planet.
-
-In 2009, Google started testing driverless cars and in 2011, Google’s Nest smart thermostat hit the market, which allowed remote control of central heating.
+### Secinājumi
 
 ### Bibliogrāfija
-1. https://en.wikipedia.org/wiki/Internet_of_things
-2. https://www.visionofhumanity.org/what-is-the-internet-of-things/
-3.
+1.	https://en.wikipedia.org/wiki/Internet_of_things
+2.	https://www.visionofhumanity.org/what-is-the-internet-of-things/
+3.	https://www.statista.com/statistics/1194709/iot-revenue-worldwide/
+4.	https://www.essaybanyan.com/essay/essay-on-internet-of-things-iot/
+5.	https://justcreative.com/internet-of-things-explained/
+6.	https://www.fostec.com/en/competences/digitalisation-strategy/internet-of-things-iot/
+7.	https://www.oracle.com/internet-of-things/what-is-iot/
+8.	https://kursors.lv/2020/07/15/lmt-visa-latvija-ievies-lietu-interneta-lte-m-tiklu/
+9.	https://techvidvan.com/tutorials/advantages-and-disadvantages-of-iot/
+10.	https://f.hubspotusercontent10.net/hubfs/5413615/2020%20IoT%C2%A0Developer%20Survey%20Report.pdf
+11.	https://www.comparitech.com/internet-providers/iot-statistics/
+
