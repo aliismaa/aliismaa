@@ -6,14 +6,14 @@
  IT 3.grupa; 1.kurss
  
 > ### Saturs
-* 1. Ievads
-*  - 1.1. Priekšvēsture
-*  - 1.2. Nozīmība
-*  - 1.3. Referāta mērķis
-*  4. Pamatjēdzieni
-*  5. Temata izvērsts izklāsts un analīze
-*  6. Secinājumi
-*  7. Bibliogrāfija 
+ 1. Ievads
+ - 1.1. Priekšvēsture
+  - 1.2. Nozīmība
+  - 1.3. Referāta mērķis
+  4. Pamatjēdzieni
+  5. Temata izvērsts izklāsts un analīze
+  6. Secinājumi
+  7. Bibliogrāfija 
  
 ## 1. Ievads
 ### 1.1. Priekšvēsture
